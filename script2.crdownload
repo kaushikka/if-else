@@ -1,0 +1,5 @@
+if n1<n2:
+        d=n1
+else:
+     d=n2
+     print("the smaller of two number is-",c)        
